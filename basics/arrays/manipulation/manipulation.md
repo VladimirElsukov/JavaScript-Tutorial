@@ -1,0 +1,1 @@
+# Манипуляции с массивами (push, pop, shift, unshift)

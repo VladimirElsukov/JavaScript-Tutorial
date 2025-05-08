@@ -1,0 +1,1 @@
+# Составные типы (object, array, function)

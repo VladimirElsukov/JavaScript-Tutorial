@@ -1,0 +1,1 @@
+# Первичные типы (string, number, boolean, null, undefined)
